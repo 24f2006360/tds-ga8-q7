@@ -1,4 +1,1 @@
-import sys
-import os
-
-x =  1
+x = 1
